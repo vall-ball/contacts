@@ -1,0 +1,27 @@
+content:
+- The first day of a month or not
+- The last day of a month
+- The n-th day from the end of a month
+- 10 days before
+- 2 weeks after
+- Getting information on a day
+- Find all mondays
+- 30 years before and after
+- Print dates of a year with an offset
+- The first and the last day of a month
+- Convert numbers to days
+- Seconds since start of a day
+- Return time without seconds
+- Seconds between two time points
+- Some hours and minutes ago
+- Subtracting hours and adding minutes
+- Merging date-time instances
+- Adding N minutes
+- Add days and subtract hours
+- Add 11 hours and print the date
+- The passed hours since the beginning of year
+- Whole hours between two date-time pairs
+- Who is who
+- Sort out the classes
+- Counting 2D shapes
+- Sum of the areas
